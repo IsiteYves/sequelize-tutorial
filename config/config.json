@@ -1,21 +1,21 @@
 {
   "development": {
-    "username": "isite",
-    "password": "up4",
+    "username": "postgres",
+    "password": "81esyvprog17",
     "database": "sequelize_tutorial",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "isite",
-    "password": "up4",
+    "username": "postgres",
+    "password": "81esyvprog17",
     "database": "sequelize_tutorial",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "username": "isite",
-    "password": "up4",
+    "username": "postgres",
+    "password": "81esyvprog17",
     "database": "sequelize_tutorial",
     "host": "127.0.0.1",
     "dialect": "postgres"
